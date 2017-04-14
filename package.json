@@ -1,6 +1,6 @@
 {
   "name": "yeps-cookie-parser",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "YEPS Cookie Parser",
   "main": "index.js",
   "scripts": {
