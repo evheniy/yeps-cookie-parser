@@ -40,4 +40,4 @@
     });
 
 
-#### [YEPS documentation](https://yeps.info/)
+#### [YEPS documentation](http://yeps.info/)
